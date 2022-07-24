@@ -1,0 +1,32 @@
+[[project]]
+name = "XFDiscordCAProvider"
+desc = "Let visitors of your XenForo forum log in and register via their Discord account."
+links = [
+    {name = "GitHub", url = "https://github.com/Zentro/XFDiscordCAProvider"},
+]
+
+[[project]]
+name = "ror-website"
+desc = "The official website for Rigs of Rods, the open source vehicle simulator."
+links = [
+    {name = "GitHub", url = "https://github.com/RigsOfRods/ror-website"},
+    {name = "Website", url = "https://www.rigsofrods.org"},
+]
+
+[[project]]
+name = "Rigs of Rods"
+desc = "The free and open source vehicle simulator that uses soft-body physics to simulate the motion destruction and deformation of vehicles."
+links = [
+    {name = "GitHub", url = "https://github.com/RigsOfRods/rigs-of-rods"},
+    {name = "Docs", url = "https://docs.rigsofrods.org"},
+    {name = "Website", url = "https://www.rigsofrods.org"},
+]
+
+[[project]]
+name = "docs.rigsofrods.org"
+desc = "The official project documentation for Rigs of Rods, the open source vehicle simulator."
+links = [
+    {name = "GitHub", url = "https://github.com/RigsOfRods/docs.rigsofrods.org"},
+    {name = "Docs", url = "https://docs.rigsofrods.org"},
+    {name = "Website", url = "https://www.rigsofrods.org"},
+]
