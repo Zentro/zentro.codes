@@ -53,8 +53,7 @@ toc_icon = "ri-menu-2-line"
 #============== Social media links =================================
 links = [
     {name = "GitHub", icon = "ri-github-line", url = "https://github.com/Zentro"},
-    {name = "Twitter", icon = "ri-twitter-line", url = "https://twitter.com/Zentro"},
-    {name = "Email", icon = "ri-mail-line", url = "mailto:hello@zentro.codes"}
+    {name = "Email", icon = "ri-mail-line", url = "mailto:rafaelgalvan268@gmail.com"}
     # Your can add more links
 ]
 
