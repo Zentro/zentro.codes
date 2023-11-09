@@ -1,13 +1,9 @@
 +++
-title = "Blog"
-description = "Who knows?"
+paginate_by = 15
+path = "blog"
+title = "blog posts"
 sort_by = "date"
-template = "blog.html"
-page_template = "post.html"
-insert_anchor_links = "none"
-generate_feed = true
-
-[extra]
-lang = 'en'
-show_post_num = 10
+page_template = "blog-page.html"
 +++
+
+> List of all *[tags](/tags)*
