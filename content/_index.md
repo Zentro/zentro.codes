@@ -12,7 +12,7 @@ title = "Rafael \"Zentro\" Galvan"
 - 📐 [the software i run (and endorse)](/software)
 - 📰 [my rants](/blog)
 - 📃 [various foss projects](/projects)
-- 🎧 [trash i listen to 🔗](#)
+- 🎧 [trash i listen to 🔗](https://www.last.fm/user/ren4k3)
 
 ## school
 
