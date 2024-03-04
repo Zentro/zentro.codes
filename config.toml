@@ -14,10 +14,12 @@ display_author = true
 twitter_card = true
 default_theme = "dark"
 author = "Rafael Galvan"
+favicon = "favicon-16x16.png"
 
 header_nav = [
   { url = "/", name_en = "/home/" },
   { url = "/projects", name_en = "/projects/" },
   { url = "/hardware", name_en = "/hardware/" },
+  { url = "/software", name_en = "/software/" },
   { url = "/blog", name_en = "/blog/" }
 ]

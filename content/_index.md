@@ -6,20 +6,25 @@ title = "Rafael \"Zentro\" Galvan"
 
 👋 hello! i'm rafael! i'm a university student that enjoys tinkering with foss in their spare time. i originally wanted to be a civil engineer, but found my interests and skills best align with computer science. my first interest in data science and extracting valuable insights from data. i also have a keen interest in embedded programming, where i enjoy working with low-level hardware and building efficient, real-time systems.
 
-- 🖥️ [the hardware i run](hardware.md)
-- 📰 [my rants](blog.md)
-- 📃 [various foss projects](projects.md)
-- 🎧 [trash i listen to 🔗](#)
+> *"[V]alue your freedom or you will lose it," teaches history. "Don't bother us with politics," respond those who don't want to learn. - Richard M. Stallman, "Linŭ, GNU, and freedom". "LinŭWorld", May 2002.*
 
-> *"[S]elfish members win within groups, but groups of altruists best groups of selfish members." - Edward O. Wilson, The Meaning of Human Existence*
+- 🖥️ [the hardware i run](/hardware)
+- 📐 [the software i run (and endorse)](/software)
+- 📰 [my rants](/blog)
+- 📃 [various foss projects](/projects)
+- 🎧 [trash i listen to 🔗](#)
 
 ## school
 
 - university of houston
     - august 2020 → may 2024
     - bachelor's degree of science in computer science
+    - dean's list
 
 ## professional experience
+- codeninjas
+    - february 2024 → present
+    - code sensei
 - university of houston - downtown
     - june 2020 → may 2022
     - undergraduate research assistant
@@ -29,8 +34,8 @@ title = "Rafael \"Zentro\" Galvan"
 
 ## organizations and clubs
 
-- coog esports
-    - member, esports coordinator
+- [coog esports](https://cooggaming.com/)
+    - member, media officer, esports coordinator
     - august 2023 → present
 - [code[coogs]](https://www.codecoogs.com/)
     - member
@@ -38,6 +43,10 @@ title = "Rafael \"Zentro\" Galvan"
 - acm uhd 
     - member, webmaster
     - august 2020 → may 2022
+- scholars academy uhd
+    - member, peer mentor
+    - august 2020 → may 2022
+    - nuclear regulatory commission grant recipient
 
 ## hackathons and conferences
 
@@ -50,6 +59,9 @@ title = "Rafael \"Zentro\" Galvan"
     - [devpost](https://devpost.com/software/l-a-m-s)
 - utd hackutd 2024
     - [devpost](https://devpost.com/software/latifa)
+- codered 2024
+    - the most ambitious hackathon project undertaken in 24 hours, a fully functional real-time chat app using the PQXDH protocal
+    - [devpost](https://devpost.com/software/slimx)
 
 ## ソーシャル
 
