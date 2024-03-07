@@ -4,18 +4,16 @@ date = 2019-10-05
 draft = false
 +++
 
-when im considering a device, or when someone asks for an opinion on the device they should get, i have a set of guidelines i follow for my self in ensuring that the person gets the most reliable and cost effective device they need for their use case.
+when im considering a device, or when someone asks for an opinion on the device they should get, i have a set of guidelines i follow for myself in ensuring that the person gets the most reliable and cost effective device they need for their use case.
 
-* the device needs to be repairable/servicable (certain devices, like my sp7, require the destruction of the device to access the internals, and in the end nothing is servicable)
-* the device needs to be within the expected price range of the user
-    * this means that the device manufacturer does not expect you to pay x2 the cost for minor upgrades in ram or cpu performance
+* the device needs to be repairable/serviceable (certain devices, like my sp7, require the destruction of the device to access the internals and in the end nothing is serviceable)
 * the device needs to at least have some form of upgradability
     * this means like an extra ram slot
     * this also means an extra or swappable storage
 * the device needs to at least last for 9 hrs on battery
 * the device needs to come with a reasonable warranty that allows for self service (see lenovo's 3 year warranty or part service, it's completely possible)
 * the device needs to have sufficient cooling for the performance it will deliver
-* the device needs to have parts that avoid known reliability
+* the device needs to have parts that avoid known reliability issues (i.e. network device)
 * the device needs to have the ability to install another operating system like gnu/linux if the user so chooses to
 
 **remember that used devices are always an acceptable option. sometimes their price for performance is greater than that of a new device.**
@@ -23,8 +21,6 @@ when im considering a device, or when someone asks for an opinion on the device 
 remember that with newer devices, you sometimes don't have the right to repair it. louis rossmann is an excellent source for all things right to repair.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Npd_xDuNi9k?si=n-RbybOr1yLQ4P2m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-[![iFixit](/ifixit.png)](https://www.ifixit.com)
 
 ## my desktop
 

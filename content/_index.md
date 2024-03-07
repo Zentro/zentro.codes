@@ -4,7 +4,7 @@ title = "Rafael \"Zentro\" Galvan"
 
 ## about me
 
-👋 hello! i'm rafael! i'm a university student that enjoys tinkering with foss in their spare time. i originally wanted to be a civil engineer, but found my interests and skills best align with computer science. my first interest in data science and extracting valuable insights from data. i also have a keen interest in embedded programming, where i enjoy working with low-level hardware and building efficient, real-time systems.
+👋 hello! i'm rafael! i'm a university student that enjoys tinkering with foss in their spare time. i originally wanted to be a civil engineer, but found my interests and skills best align with computer science. my first interest is in data science and extracting valuable insights from data. i also have a keen interest in embedded programming, where i enjoy working with low-level hardware and building efficient, real-time systems.
 
 > *"[V]alue your freedom or you will lose it," teaches history. "Don't bother us with politics," respond those who don't want to learn. - Richard M. Stallman, "Linŭ, GNU, and freedom". "LinŭWorld", May 2002.*
 
@@ -71,3 +71,5 @@ there are several ways to reach out to me, but i respond quickest to discord. i 
 - github: 🧑‍💻 [github.com/zentro](https://github.com/Zentro)
 - devpost: 🧑‍💻 [devpost.com/zentro](https://devpost.com/Zentro)
 - discord: 💬 [discord.com/users/zentro](https://discord.com/users/zentro)
+
+<a href="https://www.youtube.com/watch?v=9kQ2GtvDV3s"><img align="left" width="250" src="https://count.getloli.com/get/@:Zentro" alt=":Zentro" style="border:0" /></a>
