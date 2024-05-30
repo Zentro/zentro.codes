@@ -16,19 +16,22 @@ title = "Rafael \"Zentro\" Galvan"
 
 ## school
 
-- university of houston
+- [university of houston](https://uh.edu/nsm/computer-science/)
     - august 2020 → may 2024
     - bachelor's degree of science in computer science
     - dean's list
 
 ## professional experience
-- codeninjas
+- [ibm](https://www.ibm.com/consulting)
+    - july 2024
+    - federal consultant
+- [codeninjas](https://www.codeninjas.com/tx-tanglewood)
     - february 2024 → present
     - code sensei
-- university of houston - downtown
+- [university of houston - downtown](https://www.uhd.edu/)
     - june 2020 → may 2022
     - undergraduate research assistant
-- university of houston - downtown
+- [university of houston - downtown](https://www.uhd.edu/)
     - august 2021 → may 2022
     - peer mentor
 
@@ -36,10 +39,10 @@ title = "Rafael \"Zentro\" Galvan"
 
 - [coog esports](https://cooggaming.com/)
     - member, media officer, esports coordinator
-    - august 2023 → present
+    - august 2023 → may 2024
 - [code[coogs]](https://www.codecoogs.com/)
     - member
-    - august 2023 → present
+    - august 2023 → may 2024
 - acm uhd 
     - member, webmaster
     - august 2020 → may 2022
@@ -67,7 +70,7 @@ title = "Rafael \"Zentro\" Galvan"
 
 there are several ways to reach out to me, but i respond quickest to discord. i check my emails every day by 6 pm cst.
 
-- email: 📨 [rafaelgalvan268@gmail.com](mailto:rafaelgalvan268@gmail.com)
+- email: 📨 [rafael@zentro.codes](mailto:rafael@zentro.codes)
 - github: 🧑‍💻 [github.com/zentro](https://github.com/Zentro)
 - devpost: 🧑‍💻 [devpost.com/zentro](https://devpost.com/Zentro)
 - discord: 💬 [discord.com/users/zentro](https://discord.com/users/zentro)

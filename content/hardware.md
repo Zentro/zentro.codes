@@ -37,6 +37,12 @@ remember that with newer devices, you sometimes don't have the right to repair i
 
 ## my other devices
 
+* "myuri" thinkpad t480s
+    * 8th gen i5
+    * 16 gb of ram
+    * internal storage 1tb
+    * fedora linux
+
 * "ayame" 13 in apple macbook air m2
     * apple m2 with 10 core gpu
     * 16 gb of ram
@@ -68,10 +74,7 @@ remember that with newer devices, you sometimes don't have the right to repair i
     * 1 gig uplink
 
 ## peripherals
-* razer huntsman mini with linear red switches
+* keychron q1 pro
+* razer huntsman mini with linear red switches (portable)
 * razer viper
 * razer kraken headphones kitty edition
-
-## potential upgrades
-
-i'm not considering any new additions at the time, but i am always out on the look out for peripherals for the thinkpad x220. 
