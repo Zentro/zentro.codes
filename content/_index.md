@@ -77,4 +77,4 @@ There are several ways to reach out to me, but I respond quickest to Discord. I 
 - devpost: 🧑‍💻 [devpost.com/zentro](https://devpost.com/Zentro)
 - discord: 💬 [discord.com/users/zentro](https://discord.com/users/zentro)
 
-<a href="https://www.youtube.com/watch?v=9kQ2GtvDV3s"><img align="left" width="250" src="https://count.getloli.com/get/@:Zentro" alt=":Zentro" style="border:0" /></a>
+<a href="https://www.youtube.com/watch?v=9kQ2GtvDV3s"><img align="left" width="250" src="https://count.chiya.dev/get/@:Zentro" alt=":Zentro" style="border:0" /></a>
