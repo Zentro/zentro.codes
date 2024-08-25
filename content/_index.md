@@ -2,9 +2,11 @@
 title = "Rafael \"Zentro\" Galvan"
 +++
 
-## about me
+## About me
 
-👋 hello! i'm rafael! i'm a university student that enjoys tinkering with foss in their spare time. i originally wanted to be a civil engineer, but found my interests and skills best align with computer science. my first interest is in data science and extracting valuable insights from data. i also have a keen interest in embedded programming, where i enjoy working with low-level hardware and building efficient, real-time systems.
+<img src="sayouri_kimchizu.png" alt="Sayouri drawn by KimChizu" width="150">
+
+Hello! I'm Rafael! I'm an IBMer that enjoys tinkering with FOSS in their spare time. I originally wanted to be a civil engineer, but found that I enjoyed working with computers more. My interests primarily lie with real-time systems. 
 
 > *"[V]alue your freedom or you will lose it," teaches history. "Don't bother us with politics," respond those who don't want to learn. - Richard M. Stallman, "Linŭ, GNU, and freedom". "LinŭWorld", May 2002.*
 
@@ -14,17 +16,17 @@ title = "Rafael \"Zentro\" Galvan"
 - 📃 [various foss projects](/projects)
 - 🎧 [trash i listen to 🔗](https://www.last.fm/user/ren4k3)
 
-## school
+## School
 
 - [university of houston](https://uh.edu/nsm/computer-science/)
     - august 2020 → may 2024
     - bachelor's degree of science in computer science
     - dean's list
 
-## professional experience
-- [ibm](https://www.ibm.com/consulting)
-    - july 2024
-    - federal consultant
+## Professional Experience
+- [ibm](https://www.ibm.com/)
+    - july 2024 → present
+    - developer
 - [codeninjas](https://www.codeninjas.com/tx-tanglewood)
     - february 2024 → present
     - code sensei
@@ -35,7 +37,7 @@ title = "Rafael \"Zentro\" Galvan"
     - august 2021 → may 2022
     - peer mentor
 
-## organizations and clubs
+## Organizations and Clubs
 
 - [coog esports](https://cooggaming.com/)
     - member, media officer, esports coordinator
@@ -51,7 +53,7 @@ title = "Rafael \"Zentro\" Galvan"
     - august 2020 → may 2022
     - nuclear regulatory commission grant recipient
 
-## hackathons and conferences
+## Hackathons and Conferences
 
 - [health physics science conference](https://hps.org/meetings/)
     - presented findings on applying data science methods in solving differential equations related to the safety of fluid flows in nuclear reactors
@@ -68,7 +70,7 @@ title = "Rafael \"Zentro\" Galvan"
 
 ## ソーシャル
 
-there are several ways to reach out to me, but i respond quickest to discord. i check my emails every day by 6 pm cst.
+There are several ways to reach out to me, but I respond quickest to Discord. I check my emails every day by 8 pm CST.
 
 - email: 📨 [rafael@zentro.codes](mailto:rafael@zentro.codes)
 - github: 🧑‍💻 [github.com/zentro](https://github.com/Zentro)

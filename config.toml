@@ -1,7 +1,7 @@
 base_url = "https://zentro.codes"
 compile_sass = false
 build_search_index = false
-theme = "anemone"
+theme = "zephyr"
 
 [markdown]
 # Whether to do syntax highlighting
@@ -23,3 +23,6 @@ header_nav = [
   { url = "/software", name_en = "/software/" },
   { url = "/blog", name_en = "/blog/" }
 ]
+
+footer_content_license = "Creative Commons Attribution 4.0 International"
+footer_content_link = "https://creativecommons.org/license/by/4.0"
