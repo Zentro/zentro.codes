@@ -4,7 +4,9 @@ title = "Rafael \"Zentro\" Galvan"
 
 ## About me
 
-<img src="sayouri_kimchizu.png" alt="Sayouri drawn by KimChizu" width="150">
+<a href="https://dx0dlezcomms.carrd.co/">
+<img src="sayouri.png" alt="Sayouri drawn by dx0dlez" width="200">
+</a>
 
 Hello! I'm Rafael! I'm an IBMer that enjoys tinkering with FOSS in their spare time. I originally wanted to be a civil engineer, but found that I enjoyed working with computers more. My interests primarily lie with real-time systems. 
 
@@ -39,6 +41,12 @@ Hello! I'm Rafael! I'm an IBMer that enjoys tinkering with FOSS in their spare t
 
 ## Organizations and Clubs
 
+- [rigs of rods](https://www.rigsofrods.org)
+    - project comptroller, sysadmin, contributor
+    - july 2016 → present
+- [spi-inc](https://spi-inc.org)
+    - contributing member, project liason
+    - november 2024 → present
 - [coog esports](https://cooggaming.com/)
     - member, media officer, esports coordinator
     - august 2023 → may 2024
