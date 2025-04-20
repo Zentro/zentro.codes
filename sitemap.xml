@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://zentro.codes/</loc>
+    </url>
+    <url>
+        <loc>https://zentro.codes/blog/</loc>
+    </url>
+    <url>
+        <loc>https://zentro.codes/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://zentro.codes/blog/the-sayouri-project-getting-gnulinux-on-every-system-from-used-to-new/</loc>
+        <lastmod>2024-05-30</lastmod>
+    </url>
+    <url>
+        <loc>https://zentro.codes/hardware/</loc>
+        <lastmod>2019-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://zentro.codes/projects/</loc>
+        <lastmod>2019-10-05</lastmod>
+    </url>
+    <url>
+        <loc>https://zentro.codes/software/</loc>
+        <lastmod>2019-10-05</lastmod>
+    </url>
+</urlset>
